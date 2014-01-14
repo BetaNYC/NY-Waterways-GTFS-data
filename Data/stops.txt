@@ -1,0 +1,24 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+BELFORD,BELFORD,Belford / Harbor Way,,40.433258,-74.078826,,,0,,America/New_York,0
+EDGEWATER,EGWATER,Edgewater Ferry Landing,,40.827997,-73.969896,,,0,,America/New_York,0
+HOBOKEN14STATION,HOB. NO.,Hoboken 14th Street,,40.752735,-74.023132,,,0,,America/New_York,0
+HOBOKENNJTTSTATION,HOB. SO.,Hoboken / NJ Transit Terminal,,40.734186,-74.027746,,,0,,America/New_York,0
+LIBERTYHARBOR,LIB HAR,Liberty Harbor / Marin Blvd.,,40.711175,-74.040234,,,0,,America/New_York,0
+LINCOLN,LIN HAR,Lincoln Harbor,,40.758782,-74.022961,,,0,,America/New_York,0
+NEWPORT,NEWPORT,Newport,,40.727767,-74.03039,,,0,,America/New_York,0
+PAULUS,PAULUS,Paulus Hook,,40.71383,-74.033207,,,0,,America/New_York,0
+IMPERIAL,PORT IMP,Port Imperial / Weehawken,,40.776788,-74.010966,,,0,,America/New_York,0
+PORTLIBERTE,PORT LIB,Port Liberte,,40.687798,-74.074674,,,0,,America/New_York,0
+MIDTOWN,MIDTOWN,Midtown / W. 39th St.,,40.760147,-74.003069,,,0,,America/New_York,0
+WFC,WFC,World Financial Center,,40.715145,-74.017282,,,0,,America/New_York,0
+PIER11,PIER 11,Pier 11 / Wall St.,,40.703611,-74.006631,,,0,,America/New_York,0
+BEACON,BEACON,Beacon,,41.505781,-73.985538,,,0,,America/New_York,0
+OSSINING,OSSINING,Ossining,,41.157187,-73.870225,,,0,,America/New_York,0
+HAVERSTRAW,HAVSTRW,Haverstraw,,41.192703,-73.95833,,,0,,America/New_York,0
+NEWBURGH,NEWBURGH,Newburgh,,41.500896,-74.005494,,,0,,America/New_York,0
+DUMBO,DUMBO,DUMBO,,40.703444,-73.995162,,,0,,America/New_York,0
+SWMBG,SO. WMBG,South Williamsburg,,40.708617,-73.969864,,,0,,America/New_York,0
+NWMBG,NO. WMBG,North Williamsburg,,40.720787,-73.963909,,,0,,America/New_York,0
+GREENPOINT,GREENPT,Greenpoint,,40.731926,-73.961678,,,0,,America/New_York,0
+LIC,LIC,Long Island City,,40.74173,-73.961034,,,0,,America/New_York,0
+E34,E. 34 ST,East 34th St.,,40.744087,-73.971248,,,0,,America/New_York,0
