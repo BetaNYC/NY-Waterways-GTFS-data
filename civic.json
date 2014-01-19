@@ -1,0 +1,13 @@
+{
+        "status": "Complete",
+        "thumbnailUrl": "http://inhabitat.com/nyc/wp-content/blogs.dir/2/files/2011/10/EastRiverFerry1-537x357.jpg",
+        "bornAt": "",
+        "geography": "NYC",
+        "type":"Dataset",
+        "needs": [
+        ],
+        "categories": [
+                {"category": "Transportation"},
+                {"category": "Open Data"}
+        ]
+}
