@@ -1,24 +1,26 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-ER,NYW,,East River Ferry,,4,,003A62,FFFFFF
-ERL,NYW,,East River Ferry Loop,Summer only,4,,003A62,FFFFFF
 BELFORD+PAULUS,NYW,,Belford and Paulus Hook,,4,,79499D,FFFFFF
 BELFORD+MIDTOWN,NYW,,Belford and Midtown / W. 39th St.,,4,,ED1B2D,FFFFFF
-BELFORD+WFC,NYW,,Belford and World Financial Center,,4,,0079C2,000000
+BELFORD+BPT,NYW,,Belford and Brookfield Place Terminal,,4,,0079C2,000000
 BELFORD+PIER11,NYW,,Belford and Pier 11 / Wall St.,,4,,FFE901,000000
 EDGEWATER+MIDTOWN,NYW,,Edgewater Ferry Landing and Midtown / W. 39th St.,,4,,ED1B2D,FFFFFF
-HOBOKENNJTT+WFC,NYW,,Hoboken / NJ Transit Terminal and World Financial Center,,4,,0079C2,000000
+HOBOKENNJTT+BPT,NYW,,Hoboken / NJ Transit Terminal and Brookfield Place Terminal,,4,,0079C2,000000
 HOBOKENNJTT+PIER11,NYW,,Hoboken / NJ Transit Terminal and Pier 11 / Wall St.,,4,,FFE901,000000
 HOBOKEN14+MIDTOWN,NYW,,Hoboken 14th Street and Midtown / W. 39th St.,,4,,ED1B2D,FFFFFF
-HOBOKEN14+WFC,NYW,,Hoboken 14th Street and World Financial Center,,4,,0079C2,000000
+HOBOKEN14+BPT,NYW,,Hoboken 14th Street and Brookfield Place Terminal,,4,,0079C2,000000
 LIBERTY+PIER11,NYW,,Liberty Harbor / Marin Blvd. and Pier 11 / Wall St.,,4,,FFE901,000000
 LINCOLN+MIDTOWN,NYW,,Lincoln Harbor and Midtown / W39,,4,,ED1B2D,FFFFFF
-NEWPORT+MIDTOWN,NYW,,Newport and Midtown / W39,,4,,ED1B2D,FFFFFF
 PAULUS+MIDTOWN,NYW,,Paulus Hook and Midtown / W39,,4,,ED1B2D,FFFFFF
-PAULUS+WFC,NYW,,Paulus Hook and World Financial Center,,4,,0079C2,000000
+PAULUS+BPT,NYW,,Paulus Hook and Brookfield Place Terminal,,4,,0079C2,000000
 PAULUS+PIER11,NYW,,Paulus Hook and Pier 11 / Wall St.,,4,,FFE901,000000
 IMPERIAL+MIDTOWN,NYW,,Port Imperial / Weehawken and Midtown / W39,,4,,ED1B2D,FFFFFF
-IMPERIAL+WFC,NYW,,Port Imperial / Weehawken and World Financial Center,,4,,0079C2,000000
+IMPERIAL+BPT,NYW,,Port Imperial / Weehawken and Brookfield Place Terminal,,4,,0079C2,000000
 IMPERIAL+PIER11,NYW,,Port Imperial / Weehawken and Pier 11 / Wall St.,,4,,FFE901,000000
-LIBERTE+PIER11,NYW,,Port Liberte and Pier 11 / Wall St.,,4,,FFE901,000000
 BEACON+NEWBURGH,NYW,,Beacon and Newburgh,,4,,F7931D,000000
 OSSINING+HAVERSTRAW,NYW,,Ossining and Haverstraw,,4,,F7931D,000000
+BMB+GOV,NYW,,Battery Maritime Building and Governor's Island,,4,,79499D,FFFFFF
+PIER6+GOV,NYW,,Pier 6 and Governor's Island,,4,,79499D,FFFFFF
+LIBERTE+BMB_SLIP5,NYW,,Port Liberte and Battery Maritime Building Slip 5,,4,,FFE901,000000
+HOBOKENNJTT+MIDTOWN,NYW,,Hoboken / NJ Transit Terminal and Midtown / W. 39th St.,,4,,0079C2,FFFFFF
+HARBORSIDE+MIDTOWN,NYW,,Harborside and Midtown / W. 39th St.,,4,,0079C2,FFFFFF
+HARBORSIDE+BPT,NYW,,Harborside and Brookfield Place Terminal,,4,,0079C2,FFFFFF
